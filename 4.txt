@@ -1,4 +1,2 @@
 sdfgkj
-<<<<<<< HEAD
-some text from master
-text from branch truncated
+Done !
